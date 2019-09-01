@@ -1,0 +1,53 @@
+{
+  "groups": [
+    {
+      "name": "emp",
+      "type": "com.example.springboot.bean.Emp",
+      "sourceType": "com.example.springboot.bean.Emp"
+    }
+  ],
+  "properties": [
+    {
+      "name": "emp.age",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springboot.bean.Emp"
+    },
+    {
+      "name": "emp.birthday",
+      "type": "java.util.Date",
+      "sourceType": "com.example.springboot.bean.Emp"
+    },
+    {
+      "name": "emp.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.example.springboot.bean.Emp"
+    },
+    {
+      "name": "emp.forte",
+      "type": "com.example.springboot.bean.Forte",
+      "sourceType": "com.example.springboot.bean.Emp"
+    },
+    {
+      "name": "emp.lastname",
+      "type": "java.lang.String",
+      "description": "类似于spring框架中使用配置文件中的数据注入方式 <bean class=\"Emp\">     <property name=\"lastname\" value=\"字面量或者#{spel}  spring表达式\/${key}从配置文件中获取\"><\/property> <\/bean> @Value不支持数据校验",
+      "sourceType": "com.example.springboot.bean.Emp"
+    },
+    {
+      "name": "emp.list",
+      "type": "java.util.List",
+      "sourceType": "com.example.springboot.bean.Emp"
+    },
+    {
+      "name": "emp.map",
+      "type": "java.util.Map",
+      "sourceType": "com.example.springboot.bean.Emp"
+    },
+    {
+      "name": "emp.salary",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springboot.bean.Emp"
+    }
+  ],
+  "hints": []
+}

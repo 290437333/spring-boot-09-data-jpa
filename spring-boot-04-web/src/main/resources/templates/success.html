@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+    <h2>成功！</h2>
+    <hr/>
+    <!--th:text：将获取到的数据写到标签中，会覆盖原有数据-->
+    <p th:text="${name}">这里显示名字</p>
+
+    <!--引入th:fragment声明的公共片段  header_common为属性值-->
+    <div th:replace="header :: header_common"></div>
+    <!--引入id中的值  #header_common_id是声明的id值-->
+    <div th:replace="header :: #header_common_id" class="success"></div>
+
+    <!--
+       th:replace与th:insert的区别
+       th:replace：不保留引入时使用的标签，将声明片段直接覆盖当前引用标签
+       th:insert：保留引入时使用的标签
+    -->
+    <h2 th:insert="header :: #header_common_id"></h2>
+</body>
+</html>

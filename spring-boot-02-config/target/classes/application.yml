@@ -1,0 +1,21 @@
+server:
+  port: 8088
+
+#emp的配置数据
+#emp:
+#  lastname: zhangsan
+#  age: 24
+#  salary: 10000
+#  boss: true
+#  birthday: 1888/08/08
+#  map:
+#    key1: value1
+#    key2: value2
+#  list:
+#    - one
+#    - two
+#    - three
+#  forte:
+#    name: 篮球
+#    time: 6
+

@@ -1,0 +1,40 @@
+2019-08-27 22:54:30.048  INFO 744 --- [main] .e.s.SpringBoot03LoggingApplicationTests : Starting SpringBoot03LoggingApplicationTests on LAPTOP-1HGQQDRK with PID 744 (started by leigouzi in D:\SpringBootProject\spring-boot-03-logging)
+2019-08-27 22:54:30.063 DEBUG 744 --- [main] .e.s.SpringBoot03LoggingApplicationTests : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-27 22:54:30.063  INFO 744 --- [main] .e.s.SpringBoot03LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2019-08-27 22:54:32.411  INFO 744 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-27 22:54:32.676  INFO 744 --- [main] .e.s.SpringBoot03LoggingApplicationTests : Started SpringBoot03LoggingApplicationTests in 3.3 seconds (JVM running for 4.353)
+2019-08-27 22:54:32.911 DEBUG 744 --- [main] .e.s.SpringBoot03LoggingApplicationTests : 这是debug日志信息
+2019-08-27 22:54:32.911  INFO 744 --- [main] .e.s.SpringBoot03LoggingApplicationTests : 这是info日志信息
+2019-08-27 22:54:32.911  WARN 744 --- [main] .e.s.SpringBoot03LoggingApplicationTests : 这是warn日志信息
+2019-08-27 22:54:32.911 ERROR 744 --- [main] .e.s.SpringBoot03LoggingApplicationTests : 这是error日志信息
+2019-08-27 22:54:32.926  INFO 744 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-27 23:03:02.358  INFO 10352 --- [main] .e.s.SpringBoot03LoggingApplicationTests : Starting SpringBoot03LoggingApplicationTests on LAPTOP-1HGQQDRK with PID 10352 (started by leigouzi in D:\SpringBootProject\spring-boot-03-logging)
+2019-08-27 23:03:02.358 DEBUG 10352 --- [main] .e.s.SpringBoot03LoggingApplicationTests : Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-27 23:03:02.358  INFO 10352 --- [main] .e.s.SpringBoot03LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2019-08-27 23:03:05.019  INFO 10352 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-27 23:03:05.300  INFO 10352 --- [main] .e.s.SpringBoot03LoggingApplicationTests : Started SpringBoot03LoggingApplicationTests in 3.598 seconds (JVM running for 4.672)
+2019-08-27 23:03:05.550 DEBUG 10352 --- [main] .e.s.SpringBoot03LoggingApplicationTests : 这是debug日志信息
+2019-08-27 23:03:05.550  INFO 10352 --- [main] .e.s.SpringBoot03LoggingApplicationTests : 这是info日志信息
+2019-08-27 23:03:05.550  WARN 10352 --- [main] .e.s.SpringBoot03LoggingApplicationTests : 这是warn日志信息
+2019-08-27 23:03:05.550 ERROR 10352 --- [main] .e.s.SpringBoot03LoggingApplicationTests : 这是error日志信息
+2019-08-27 23:03:05.565  INFO 10352 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-27 23:05:09.080 >>> [main] >>> INFO  >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> Starting SpringBoot03LoggingApplicationTests on LAPTOP-1HGQQDRK with PID 10916 (started by leigouzi in D:\SpringBootProject\spring-boot-03-logging)
+2019-08-27 23:05:09.080 >>> [main] >>> DEBUG >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-27 23:05:09.088 >>> [main] >>> INFO  >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> No active profile set, falling back to default profiles: default
+2019-08-27 23:05:11.473 >>> [main] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-27 23:05:11.723 >>> [main] >>> INFO  >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> Started SpringBoot03LoggingApplicationTests in 3.297 seconds (JVM running for 4.416)
+2019-08-27 23:05:11.879 >>> [main] >>> DEBUG >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> 这是debug日志信息
+2019-08-27 23:05:11.879 >>> [main] >>> INFO  >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> 这是info日志信息
+2019-08-27 23:05:11.879 >>> [main] >>> WARN  >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> 这是warn日志信息
+2019-08-27 23:05:11.879 >>> [main] >>> ERROR >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> 这是error日志信息
+2019-08-27 23:05:11.879 >>> [Thread-2] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-27 23:40:42.668 >>> [main] >>> INFO  >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> Starting SpringBoot03LoggingApplicationTests on LAPTOP-1HGQQDRK with PID 11176 (started by leigouzi in D:\SpringBootProject\spring-boot-03-logging)
+2019-08-27 23:40:42.668 >>> [main] >>> DEBUG >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-27 23:40:42.684 >>> [main] >>> INFO  >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> No active profile set, falling back to default profiles: default
+2019-08-27 23:40:45.391 >>> [main] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-27 23:40:45.750 >>> [main] >>> INFO  >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> Started SpringBoot03LoggingApplicationTests in 3.582 seconds (JVM running for 4.896)
+2019-08-27 23:40:45.969 >>> [main] >>> DEBUG >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> 这是debug日志信息
+2019-08-27 23:40:45.984 >>> [main] >>> INFO  >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> 这是info日志信息
+2019-08-27 23:40:45.984 >>> [main] >>> WARN  >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> 这是warn日志信息
+2019-08-27 23:40:45.984 >>> [main] >>> ERROR >>> c.e.springboot.SpringBoot03LoggingApplicationTests >>> 这是error日志信息
+2019-08-27 23:40:45.984 >>> [Thread-2] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Shutting down ExecutorService 'applicationTaskExecutor'
