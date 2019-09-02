@@ -1,78 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14137688-ea23-4f5b-8f5e-2819aa4249eb" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/java/com/example/springboot/SpringBoot05BillApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/java/com/example/springboot/component/MyLocaleResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/java/com/example/springboot/config/MySpringMvcConfigurer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/java/com/example/springboot/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/java/com/example/springboot/controller/ProviderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/i18n/login.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/i18n/login_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/i18n/login_zh_CN.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/css/public.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/buy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/buy2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/clock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/formBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/gys.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/leftBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/loginBg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/login_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/login_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/mm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/read.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/schu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/tc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/tianjia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/xiugai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/yh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/img/zd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/js/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/static/js/time.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/bill/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/bill/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/bill/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/bill/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/main/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/main/password.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/main/public.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/provider/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/provider/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/provider/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/provider/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/user/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/user/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/user/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/main/resources/templates/user/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-05-bill/src/test/java/com/example/springboot/SpringBoot05BillApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web/src/main/resources/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web/src/main/resources/templates/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web/src/main/resources/templates/study.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web/src/main/resources/templates/study.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web/src/main/resources/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web/src/main/resources/templates/success.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web/target/classes/com/example/springboot/config/MySpringMvcConfigurer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web/target/classes/com/example/springboot/config/MySpringMvcConfigurer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web/target/classes/com/example/springboot/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web/target/classes/com/example/springboot/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web/target/classes/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web/target/classes/templates/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web/target/classes/templates/study.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web/target/classes/templates/study.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-04-web/target/classes/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-04-web/target/classes/templates/success.html" afterDir="false" />
-    </list>
+    <list default="true" id="14137688-ea23-4f5b-8f5e-2819aa4249eb" name="Default Changelist" comment="1" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../spring-boot-01-init-02/target/" />
@@ -263,144 +192,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="i18n" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="i18n" type="462c0819:PsiDirectoryNode" />
-              <item name="Resource Bundle 'login'" type="a6c14932:ResourceBundleNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-01-hello" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-05-bill" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -413,7 +205,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567439752076" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567439777570" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -589,7 +381,7 @@
       <workItem from="1567086101698" duration="5869000" />
       <workItem from="1567331370467" duration="1200000" />
       <workItem from="1567340151767" duration="3483000" />
-      <workItem from="1567430202244" duration="9443000" />
+      <workItem from="1567430202244" duration="9815000" />
     </task>
     <servers />
   </component>
@@ -626,13 +418,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47943000" />
+    <option name="totallyTimeSpent" value="48315000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26839128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26839128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -642,7 +433,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28063944" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28063944" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.87388986" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
