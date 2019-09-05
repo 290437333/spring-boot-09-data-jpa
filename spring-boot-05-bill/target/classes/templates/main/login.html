@@ -9,7 +9,7 @@
     <section class="loginBox">
         <header class="loginHeader">
             <h1>账单管理系统</h1>
-        </header>t
+        </header>
         <section class="loginCont">
 			<div th:if="${not #strings.isEmpty(msg)}" th:text="${msg}" style="color:red; margin-left: 130px"></div>
             <form class="loginForm" th:action="@{login}" th:method="post" action="../main/index.html">
